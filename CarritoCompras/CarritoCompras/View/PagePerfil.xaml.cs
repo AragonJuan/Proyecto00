@@ -69,7 +69,7 @@ namespace CarritoCompras.View
 
         private void BtnCerrarSesion_Clicked(object sender, EventArgs e)
         {
-            Application.Current.MainPage = new PageInicio();
+            Application.Current.MainPage = new PageLogin();
         }
     }
 }

@@ -23,11 +23,11 @@
                         <StackLayout VerticalOptions="CenterAndExpand" HorizontalOptions="CenterAndExpand" Margin="5">
                             <Label Font="20" TextColor="#860000">Completa el siguiente formulario</Label>
                         </StackLayout>
-                        <Entry x:Name="txtNombre" Placeholder="Nombres" TextColor="Black" Text="test"/>
-                        <Entry x:Name="txtApellido" Placeholder="Apellidos" TextColor="Black" Text="user"/>
-                        <Entry x:Name="txtDocumento" Placeholder="Documento Identidad" TextColor="Black" Text="78897889"/>
-                        <Entry x:Name="txtEmail" Placeholder="Email" TextColor="Black" Text="testuser@gmail.com"/>
-                        <Entry x:Name="txtContrasena" Placeholder="Contraseña" IsPassword="True" TextColor="Black" Text="testuser123"/>
+                        <Entry x:Name="txtNombre" Placeholder="Nombres" TextColor="Black" Text=""/>
+                        <Entry x:Name="txtApellido" Placeholder="Apellidos" TextColor="Black" Text=""/>
+                        <Entry x:Name="txtDocumento" Placeholder="Documento Identidad" TextColor="Black" Text=""/>
+                        <Entry x:Name="txtEmail" Placeholder="Email" TextColor="Black" Text=""/>
+                        <Entry x:Name="txtContrasena" Placeholder="Contraseña" IsPassword="True" TextColor="Black" Text=""/>
                         <Grid>
                             <Grid.RowDefinitions>
                                 <RowDefinition Height="auto"/>

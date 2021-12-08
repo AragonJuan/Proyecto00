@@ -13,7 +13,7 @@
                     <StackLayout VerticalOptions="CenterAndExpand" HorizontalOptions="CenterAndExpand" Margin="5">
                         <Label Font="20" TextColor="#860000">Mis Datos</Label>
                     </StackLayout>
-                    <Entry x:Name="txtEmail" Placeholder="Email" TextColor="Black" Text="" IsEnabled="False"/>
+                    <Entry x:Name="txtEmail" Placeholder="Email" TextColor="Black" Text=""/>
                     <Entry x:Name="txtNombre" Placeholder="Nombres" TextColor="Black" Text=""/>
                     <Entry x:Name="txtApellido" Placeholder="Apellidos" TextColor="Black" Text=""/>
                     <Entry x:Name="txtDocumento" Placeholder="Documento Identidad" TextColor="Black" Text=""/>
